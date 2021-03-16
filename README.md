@@ -1,1 +1,1 @@
-Sistema-Eventos-tecnico-cientifico
+Eventos técnico-científico, em geral, recebem submissões de trabalhos em diferentes categorias e, portanto, necessitam de um sistema para gerenciar essas submissões. As categorias de submissões são: artigos, resumos, minicursos, palestras, monografias e relatórios técnicos.
